@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<!--******************************************************
+ * File: ColorCircles.fxml                               *
+ * Author: Marion Armbruster                             *
+ * Date: 8 November2018                                  *
+ *                                                       *
+ * A default fxml file that intelliJ made for the        *
+ * ColorCircles.java file. Ideally, the view should be   *
+ * in this file (how the scene looks), while the data    *
+ * and model are in other files.                         *
+ *****************************************************/-->
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+  xmlns:fx="http://javafx.com/fxml"
+  fx:controller="colorfulcircles.ColorfulCircles"
+  prefHeight="800.0" prefWidth="600.0">
+
+</AnchorPane>
