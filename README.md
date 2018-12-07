@@ -42,7 +42,7 @@ Ackowledgements are also due to Professor Vanselow and Damian Morgan for assisti
 shenanigans introduced by both githib and IntelliJ. 
 
 # Key Programming Concepts Utilized
-This section would not necessarily be in a real README. 
-It is a reference for you and a place to impress potential employers with your knowledge. Identify what concepts you utilize so when
-you need to use them again you will know that you will find them here. Include a brief description of the concepts in your own words
-to help you prepare for related interview questions.
+
+Key concepts: JavaFX: always has a start method to initialize the first stage and the scene within it, and a Main tha launches it. Uses Controllers and fxml files for the bulk of the program and can use css to separate the style and looks from the rest of the scene. JavaFX can utilize a Model-view-controller (MVC) design principle and design where the model of the program is spearate from both the view (fxml file) and the control (controller file) of the program.
+
+JavaFX is much easier to use than Java Swing for some cases. 
