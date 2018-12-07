@@ -1,12 +1,7 @@
 # JavaFxTutorial
 
-The JavaFX Tutorial is a program designed by Oracle to introduce an intermediate programmer to common JavaFX tasks, such as working with
-layouts, controls, style sheets, and visual effects. JavaFX is a facet of Java that uses fxml files for formatting a gui and controller
-files to determine what objects in the gui do, such as actions that occur due to user input. This JavaFX program was an individual
-assignment for my COP 3003 class during the Fall 2018 semester and it displays a simple gui that showcases a background image set to the
-scene and a button that displays pre-determined text when pushed. The secondary program, Colorful Circles, showcases an animation done
-with JavaFX's Animation class. This program uses the Google Java Style guide and was developed using Java and JavaFX in the IntelliJ
-Ultimate Integrated Development Environment.
+The JavaFX Tutorial is a program designed by Oracle to introduce an beginning or intermediate programmer to common JavaFX tasks, such as
+working with layouts, controls, style sheets, and visual effects. JavaFX is a facet of Java that uses fxml files for formatting a gui and controller files to determine what objects in the gui do, such as actions that occur due to user input. This JavaFX program was an individual assignment for my COP 3003 class during the Fall 2018 semester and it displays a simple gui that showcases a background image set to the scene and a button that displays pre-determined text when pushed. The secondary program, Colorful Circles, showcases an animation done with JavaFX's Animation class. This program uses the Google Java Style guide and was developed using Java and JavaFX in the IntelliJ Ultimate Integrated Development Environment.
 
 # Demonstration
 // TO DO: Add an animated gif. You can use ShareX, GIPHY Capture or another tool. https://blog.github.com/2018-06-29-GIF-that-keeps-on-GIFing/ Note for school project: This is a great way for friends and family to easily see your project in action.
